@@ -10,7 +10,7 @@ import com.android_test.R;
  */
 public class MainActivity extends Activity {
 
-    // It would be great if you use ButterKnife for binding views
+    // It would be great if you use ButterKnife
     // http://jakewharton.github.io/butterknife/
 
     @Override
